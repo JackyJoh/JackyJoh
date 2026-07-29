@@ -3,7 +3,7 @@ CS student at the University of Florida, into systems and data.
 
 ## Project Highlights
 
-- **JacksonDB** — a columnar database engine written in Go
+- **JackyDB** — a columnar database engine written in Go
 - **Miscalibrated** — a live ML trading system on Kalshi
 - **Game Boy Emulator** — cycle-accurate, written in C++
 
